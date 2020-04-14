@@ -1,2 +1,4 @@
 Hello world
 test adding some more info...
+
+this line is to test the git add -p function
